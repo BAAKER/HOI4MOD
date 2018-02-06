@@ -11,6 +11,7 @@ state={
 		add_core_of = KOF
 		buildings = {
 			infrastructure = 3
+                        dockyard = 6
 		}
 		victory_points = {
 			10444 15
